@@ -1,0 +1,16 @@
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\bin\Debug\net6.0\ConsoleAppToTest.exe
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\bin\Debug\net6.0\ConsoleAppToTest.deps.json
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\bin\Debug\net6.0\ConsoleAppToTest.runtimeconfig.json
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\bin\Debug\net6.0\ConsoleAppToTest.dll
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\bin\Debug\net6.0\ref\ConsoleAppToTest.dll
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\bin\Debug\net6.0\ConsoleAppToTest.pdb
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\obj\Debug\net6.0\ConsoleAppToTest.GlobalUsings.g.cs
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\obj\Debug\net6.0\ConsoleAppToTest.csproj.AssemblyReference.cache
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\obj\Debug\net6.0\ConsoleAppToTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\obj\Debug\net6.0\ConsoleAppToTest.AssemblyInfoInputs.cache
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\obj\Debug\net6.0\ConsoleAppToTest.AssemblyInfo.cs
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\obj\Debug\net6.0\ConsoleAppToTest.csproj.CoreCompileInputs.cache
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\obj\Debug\net6.0\ConsoleAppToTest.dll
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\obj\Debug\net6.0\ref\ConsoleAppToTest.dll
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\obj\Debug\net6.0\ConsoleAppToTest.pdb
+C:\Users\igalf\source\repos\ConsoleAppToTest\ConsoleAppToTest\obj\Debug\net6.0\ConsoleAppToTest.genruntimeconfig.cache
